@@ -1,0 +1,68 @@
+[
+  {
+    "id": "By-use-case",
+    "title": "By use case",
+    "file": "../articles/article-solutions/Cyber-Insurance.html",
+    "link" : "",
+    "sections": [
+    { 
+        "id": "ci",
+        "title": "Cyber Insurance",
+        "file": "../articles/article-solutions/Cyber-Insurance.html",
+        "link" : "article-solutions.html?id=ci" 
+
+    },
+    { 
+        "id": "pr",
+        "title": "Password Reset",
+        "file": "../articles/article-solutions/Password-Reset.html",
+        "link" : "article-solutions.html?id=pr" 
+
+    }
+    ]
+  },
+    {
+    "id": "By-industry",
+    "title": "By industry",
+    "file": "../articles/article-solutions/Financial-Services.html",
+    "link" : "article-solutions.html?id=fs",
+    "sections": [
+    { 
+        "id": "fs",
+        "title": "Financial Services",
+        "file": "../articles/article-solutions/Financial-Services.html",
+        "link" : "article-solutions.html?id=fs" 
+    },
+    { 
+        "id": "b",
+        "title": "Banking",
+        "file": "../articles/article-solutions/Banking.html",
+        "link" : "article-solutions.html?id=b" 
+
+    }
+    ]
+  },
+  {
+    "id": "By-certification",
+    "title": "By certification",
+    "file": "../articles/article-solutions/PCI-DSS.html",
+    "link": "article-solutions.html?id=PCIDSS",
+    "sections": [
+    { 
+        "id": "PCIDSS",
+        "title": "PCI DSS",
+        "file": "../articles/article-solutions/PCI-DSS.html",
+        "link" : "article-solutions.html?id=PCIDSS" 
+
+    },
+    { 
+        "id": "HIPAA",
+        "title": "HIPAA",
+        "file": "../articles/article-solutions/HIPAA.html",
+        "link" : "article-solutions.html?id=HIPAA" 
+
+    }
+    ]
+  }
+ 
+]

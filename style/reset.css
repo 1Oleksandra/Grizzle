@@ -1,0 +1,69 @@
+/* Обнулення всіх відступів, полів та бордерів */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Видалення стандартного спискового маркування */
+  ol, ul, a {
+    list-style: none;
+  }
+
+  a {
+  all: unset;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+ul {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-inline-start: 0;
+}
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none; /* прибирає стандартні кружечки/цифри */
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
+  /* Вирівнювання шрифтів та розмірів */
+  body {
+    font-size: 100%;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  }
+  
+  /* Видалення стандартних стилів для таблиць */
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  /* Видалення стандартних стилів для цитат */
+  blockquote, q {
+    quotes: none;
+  }
+  
+  blockquote::before, blockquote::after,
+  q::before, q::after {
+    content: '';
+  }
+  
+  /* Вирівнювання HTML5-елементів */
+  article, aside, details, figcaption, figure,
+  footer, header, hgroup, menu, nav, section {
+    display: block;
+  }
+  
+  /* Видалення стандартних стилів для кнопок та форм */
+  input, button, textarea, select {
+    font: inherit;
+  }

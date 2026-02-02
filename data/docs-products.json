@@ -1,0 +1,82 @@
+[
+{
+    "id": "pam",
+    "title": "Privileged Access Management (PAM)",
+    "file": "../articles/article-products/PAM.html",
+    "link" : "article-products.html?id=pam",
+    "sections": [
+      { 
+          "id": "pasm",
+          "title": "Privileged Account Session Management",
+          "file": "../articles/article-products/Privileged-Account-Session-Management.html",
+          "link" : "article-products.html?id=pasm" 
+      },
+      { 
+          "id": "pad",
+          "title": "Privileged Accounts Discovery",
+          "file": "../articles/article-products/Privileged-Accounts-Discovery.html",
+          "link" : "article-products.html?id=pad" 
+
+      },
+      { 
+          "id": "lssaj",
+          "title": "Live Session Sharing and Joining",
+          "file": "../articles/article-products/Live-Session-Sharing-and-Joining.html",
+          "link" : "article-products.html?id=lssaj" 
+
+      },
+      { 
+          "id": "ps",
+          "title": "Password Safe",
+          "file": "../articles/article-products/Password-Safe.html",
+          "link" : "article-products.html?id=ps" 
+
+      },
+      { 
+          "id": "pv",
+          "title": "Private Vault",
+          "file": "../articles/article-products/Private-Vault.html",
+          "link" : "article-products.html?id=pv" 
+
+      },
+      { 
+          "id": "ncs",
+          "title": "Native Connection Support",
+          "file": "../articles/article-products/Native-Connection-Support.html",
+          "link" : "article-products.html?id=ncs" 
+
+      },
+      { 
+          "id": "jit",
+          "title": "Just in-time-limited Privilege (JIT)",
+          "file": "../articles/article-products/JIT.html",
+          "link" : "article-products.html?id=jit" 
+
+      }
+    ]
+  },
+  {
+    "id": "aams",
+    "title": "Application Access Management System",
+    "file": "PAM.html",
+    "link" : "article-products.html?id=aams" 
+  },
+  {
+    "id": "psrass",
+    "title": "Privileged Session Record and Search System",
+    "file": "PAM.html",
+    "link" : "article-products.html?id=psrass" 
+  },
+  {
+    "id": "pms",
+    "title": "Password Management System",
+    "file": "PAM.html",
+    "link" : "article-products.html?id=pms" 
+  },
+  {
+    "id": "baaads",
+    "title": "Behavior Analysis and Anomaly Detection System",
+    "file": "PAM.html",
+    "link" : "article-products.html?id=baaads" 
+  }
+]
