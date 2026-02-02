@@ -19,10 +19,9 @@
 
 ## 🎥 Демонстрація
 
-[![Watch the video](https://youtu.be/Ap96r6rpKiQ)
+[![Watch the video](https://img.youtube.com/vi/Ap96r6rpKiQ/0.jpg)](https://www.youtube.com/watch?v=Ap96r6rpKiQ)
 
 *(натисни на картинку, щоб переглянути відео на YouTube)*
-
 
 ## 📱 Адаптивність
 
