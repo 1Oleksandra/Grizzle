@@ -1,39 +1,38 @@
 # 🖼️ Grizzle
 
-## 📖 Опис проєкту
+## 📖 Project Description
 
-Сайт було спроєктовано мною у **Figma** та зверстано за допомогою **HTML, CSS та JavaScript**.  
-Анімації реалізовані здебільшого на **CSS** (кнопки, ефекти при наведенні, посилання, слайдер).  
+The website was designed by me in Figma and developed with HTML, CSS, and JavaScript.
+Animations are mostly implemented with CSS (buttons, hover effects, links, slider).
+With JavaScript, I created the BLOG, Products, and Solutions pages.
+Content is loaded using fetch requests from custom JSON files.
+This is a freelance project, published with the client’s permission.
+It is not yet launched because the client has not provided final photos and video materials.
 
-За допомогою **JavaScript** створені сторінки **BLOG**, **Products** та **Solutions**.  
-Для завантаження контенту використані **fetch-запити** до власноруч створених JSON‑файлів.  
+## ⚙️  Technologies
+- Figma — UI/UX design
+- HTML5 — semantic markup, page structure
+- CSS3 — styling with flex, position, media queries, responsive layout
+- JavaScript — slider logic, fetch requests, interactivity, without libraries
 
-Це **фріланс-проєкт**, опублікований з дозволу клієнта.  
-Наразі він ще не запущений у роботу, оскільки клієнт не надав остаточні фото та відео‑матеріали.
 
-## ⚙️ Технології
-- **Figma** — UI/UX дизайн
-- **HTML5** — семантична розмітка, структура сторінки
-- **CSS3** — стилізація з використанням `flex`, `position`, `media queries`, адаптивна верстка, медіа-запити
-- **JavaScript** — логіка слайдера, fetch-запити, інтерактивність, без бібліотек
-
-## 🎥 Демонстрація
+## 🎥 Demo
 
 [![Watch the video](https://img.youtube.com/vi/Ap96r6rpKiQ/0.jpg)](https://www.youtube.com/watch?v=Ap96r6rpKiQ)
 
-*(натисни на картинку, щоб переглянути відео)*
+*(click the image to watch the video)*
 
-## 📱 Адаптивність
+## 📱  Responsiveness
 
-Сайт коректно відображається на:
+The website displays correctly on:
+- 📱 Mobile devices
+- 💻 Tablets
+- 🖥️ Desktop
 
-- 📱 Мобільних пристроях
-- 💻 Планшетах
-- 🖥️ Десктопах
 
-## 🚀 Запуск
+## 🚀 How to Run
 
-1. Клонувати репозиторій:
+- Clone the repository
    ```bash
    git clone https://github.com/1Oleksandra/Gallery.git
-2. Відкрити home.html у браузері
+- Open home.html in your browser
